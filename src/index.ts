@@ -9,7 +9,6 @@ const PASSWORD_DB = process.env.PASSWORD_DB;
 
 const uri: string = `mongodb+srv://${USER_DB}:${PASSWORD_DB}@film-api.ub49l.mongodb.net/?retryWrites=true&w=majority&appName=film-api`;
 
-
 app.listen(PORT, async () => {
 
     await mongoose.connect(uri).then(() => {
