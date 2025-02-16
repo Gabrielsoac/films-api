@@ -26,4 +26,4 @@ npm run dev
 ```
 
 ## Conclusão
-Este projeto foi uma API simples para realizar um CRUD de Films, desenvolvida com JavaScript, ExpressJS e Mongodb, visando o aprendizado dessas ferramentas em conjunto.
+Este projeto foi uma API simples para realizar um CRUD de Films, desenvolvida com Typescript, ExpressJS e Mongodb, visando o aprendizado dessas ferramentas em conjunto.
